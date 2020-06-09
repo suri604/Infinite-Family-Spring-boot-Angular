@@ -1,0 +1,12 @@
+.navbar{
+    color: whitesmoke;
+    background-color: #7f5a83;
+background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+
+} 
+
+.page-footer{
+    background-color: #bdd4e7;
+background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+
+}
